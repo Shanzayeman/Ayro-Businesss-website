@@ -1,0 +1,90 @@
+body{
+    margin: 0px;
+    background-color:rgb(27, 27, 252);
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+li{
+    float: left;
+}
+li{
+    display: block;
+    color: white;
+    padding: 10px
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+#one{
+    font-size:xx-large;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+}
+.dill{
+    display: block;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+li:hover{
+    background-color: rgb(20, 20, 20)
+}
+#me{
+    float: right;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+#me:hover{
+    background-color:rgb(27, 27, 252) ;
+}
+#img1{
+    float: right;
+    margin-right: 80px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+#h11{
+    float: right;
+    color: white;
+    margin-top: 110px;
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 240px;
+}
+#h12{
+    float: right;
+    color: white;
+    margin-right: 60px;
+}
+input{
+    width: 120px;
+    height: 30px;
+    border-radius: 2px;
+    border: 1px solid white;
+    color: rgb(27, 27, 252);
+    float: left;
+    margin-left: 100px ;
+    margin-top: 20px;
+    cursor: pointer;
+}
+#same{
+    float: left;
+    margin-left: 40px ;
+    margin-top: 20px;
+    border: 1px solid white;
+    width: 30px ;
+    height: 30px;
+    border-radius: 50%;
+    background-color: white;
+}
+#last{
+    color: white;
+    float: right;
+    margin-top: 28px;
+    margin-right: 270px;
+}
